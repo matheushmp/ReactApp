@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/ReactApp/static/js/main.e0efac7c.chunk.js",
+    "main.js.map": "/ReactApp/static/js/main.e0efac7c.chunk.js.map",
+    "runtime-main.js": "/ReactApp/static/js/runtime-main.5a142ff8.js",
+    "runtime-main.js.map": "/ReactApp/static/js/runtime-main.5a142ff8.js.map",
+    "static/css/2.dc21d24d.chunk.css": "/ReactApp/static/css/2.dc21d24d.chunk.css",
+    "static/js/2.5844b998.chunk.js": "/ReactApp/static/js/2.5844b998.chunk.js",
+    "static/js/2.5844b998.chunk.js.map": "/ReactApp/static/js/2.5844b998.chunk.js.map",
+    "static/js/3.d08fdc99.chunk.js": "/ReactApp/static/js/3.d08fdc99.chunk.js",
+    "static/js/3.d08fdc99.chunk.js.map": "/ReactApp/static/js/3.d08fdc99.chunk.js.map",
+    "index.html": "/ReactApp/index.html",
+    "static/css/2.dc21d24d.chunk.css.map": "/ReactApp/static/css/2.dc21d24d.chunk.css.map",
+    "static/js/2.5844b998.chunk.js.LICENSE.txt": "/ReactApp/static/js/2.5844b998.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/ReactApp/static/media/RobotoMono-Thin.30914900.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a142ff8.js",
+    "static/css/2.dc21d24d.chunk.css",
+    "static/js/2.5844b998.chunk.js",
+    "static/js/main.e0efac7c.chunk.js"
+  ]
+}
